@@ -1,4 +1,4 @@
-# INTERGEN Reviewer-Revision Experiments
+# INTERGEN 
 
 This repository contains the unified Python implementation of the INTERGEN reviewer-revision experiments for two tasks:
 

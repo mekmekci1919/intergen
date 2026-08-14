@@ -2,7 +2,7 @@
 
 Place the two input Excel files here using these exact default filenames:
 
-- `collision_2023_clevand.xlsx`
+- `collision_2023_lancashire.xlsx`
 - `day_bike_share.xlsx`
 
 The experiment script reads them from `./data/` by default.

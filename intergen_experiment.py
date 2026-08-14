@@ -193,7 +193,7 @@ DATA_DIR = Path(
 COLLISION_FILE = Path(
     os.environ.get(
         "INTERGEN_COLLISION_FILE",
-        str(DATA_DIR / "collision_2023_clevand.xlsx"),
+        str(DATA_DIR / "collision_2023_lancashire.xlsx"),
     )
 ).expanduser()
 BIKE_FILE = Path(

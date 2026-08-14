@@ -1,0 +1,11 @@
+task,method,metric,reported_mean,source_note
+collision,INTERGEN,ROC-AUC,0.8481,revised manuscript Table 2 / Results 4.1
+collision,Stacking,ROC-AUC,0.8529,revised manuscript Table 2 / Results 4.1
+collision,Greedy Model Soup,ROC-AUC,0.8491,revised manuscript Table 2 / Results 4.1
+collision,INTERGEN unaligned,ROC-AUC,0.5396,revised manuscript Table 4 / Results 4.3
+bike,INTERGEN,RMSE,1638.3,revised manuscript Table 3 / Results 4.2
+bike,Stacking,RMSE,686.0,revised manuscript Table 3 / Results 4.2
+bike,Random Forest,RMSE,713.0,revised manuscript Table 3 / Results 4.2
+bike,Greedy Model Soup,RMSE,765.9,revised manuscript Table 3 / Results 4.2
+bike,INTERGEN unaligned,RMSE,4646.1,revised manuscript Table 4 / Results 4.3
+bike,INTERGEN 4 networks,RMSE,1459.7,revised manuscript Table 4 / Results 4.3
